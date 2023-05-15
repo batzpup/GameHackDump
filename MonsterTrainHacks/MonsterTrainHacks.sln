@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterTrainHacks", "MonsterTrainHacks\MonsterTrainHacks.csproj", "{B751AAB5-7FAA-4058-85C8-91C6CC5DE6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B751AAB5-7FAA-4058-85C8-91C6CC5DE6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B751AAB5-7FAA-4058-85C8-91C6CC5DE6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B751AAB5-7FAA-4058-85C8-91C6CC5DE6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B751AAB5-7FAA-4058-85C8-91C6CC5DE6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADF51F9-8B54-40DB-A7B8-316D09F0A081}
+	EndGlobalSection
+EndGlobal

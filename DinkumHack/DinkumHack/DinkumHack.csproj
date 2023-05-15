@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<LangVersion>Latest</LangVersion>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<AutoGenerateBindingRedirects>False</AutoGenerateBindingRedirects>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Reference Include="Assembly-CSharp">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\Assembly-CSharp.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Assembly-CSharp-firstpass">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Mirror">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\Mirror.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Mirror.Authenticators">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\Mirror.Authenticators.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Mirror.Components">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\Mirror.Components.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Unity.InputSystem">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\Unity.InputSystem.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.CoreModule">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.IMGUIModule">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.InputLegacyModule">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.PhysicsModule">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.UI">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.UI.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.UIElementsModule">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.UIElementsModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.UIElementsNativeModule">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.UIElementsNativeModule.dll</HintPath>
+	  </Reference>
+	  <Reference Include="UnityEngine.UIModule">
+	    <HintPath>..\..\..\..\Steam\steamapps\common\Dinkum\Dinkum_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>

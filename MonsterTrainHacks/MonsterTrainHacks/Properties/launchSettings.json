@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MonsterTrainHacks": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Steam\\steamapps\\common\\Monster Train"
+    }
+  }
+}
